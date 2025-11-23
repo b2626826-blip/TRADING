@@ -1,0 +1,5 @@
+{
+  "name": "交易紀錄",
+  "description": "基於 Google Gemini API 的個人投資交易紀錄與 AI 分析系統。",
+  "requestFramePermissions": []
+}
